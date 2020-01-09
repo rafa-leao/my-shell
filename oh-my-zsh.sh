@@ -1,4 +1,4 @@
-# Installing Zsh
+sudo apt update
 
 echo "Installing zsh first"
 
