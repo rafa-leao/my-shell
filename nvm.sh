@@ -12,11 +12,11 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 if [ $node_version ]; then
     echo "Installing node $node_version"
     nvm install v$node_version
+    nvm use v$node_version
 else
     echo "Installing the latest node version"
     nvm install node
+    nvm use node
 fi
 
-# All nodejs version installed
-echo "ALL NODEJS INSTALLED"
-nvm ls
+
