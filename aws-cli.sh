@@ -1,6 +1,6 @@
 echo "========================================================================="
 echo "To install aws cli you need to install the snap, do you want to continue?"
-echo "yes to continue [Enter] to cancel"
+echo "yes to continue or [Enter] to cancel"
 read confirmation
 echo "========================================================================="
 
@@ -14,7 +14,7 @@ fi
 
 echo "========================================================================="
 echo "Do you want configure aws"
-echo "Y to continue [Enter] to cancel"
+echo "yes to continue or [Enter] to cancel"
 read confirmation
 echo "========================================================================="
 
