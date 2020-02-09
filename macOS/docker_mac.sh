@@ -23,4 +23,4 @@ docker-machine env default
 # Shell using new machine
 eval $(docker-machine env default)
 
-
+echo "run 'docker run hello-world', if this command is dosen't work, restart your mac"
