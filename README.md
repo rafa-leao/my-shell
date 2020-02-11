@@ -9,13 +9,15 @@ Just run it and use it !
 
 ## Usage
 
-Well, it is simiple. We divided the folders thinking on what OS you're using. 
+Well, it is simple. We divided the folders thinking on what OS you're using. 
 
 - Clone this repo anywhere in your machine;
 
 - Just go to the folder related to your OS and  find the tool you want to install;
 
 - Found it? Simply execute this file and the magic happens;
+
+- Some issue while executing? Open an issue and help us to make it more reliable!
 
 ## Contribution
 
