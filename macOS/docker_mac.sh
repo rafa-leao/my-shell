@@ -6,7 +6,7 @@ brew install docker
 # Installing Docker Machine because docker cant use native OS
 brew install docker-machine
 
-# Installing virtualBox becausa docker cant create machine without vb
+# Installing virtualBox because docker cant create machine without vb
 brew cask install virtualbox
 
 echo "Any error message? [y/N]"
